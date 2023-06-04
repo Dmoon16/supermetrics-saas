@@ -502,4 +502,4 @@ Run `npm run build` to build your app
 
 ### Deploy
 
-Run `firebase deploy` to deploy your app to Firebase. If you see a blank screen in your production URL, make sure you set the `build` as the folder in your Firebase settings.
+Run `firebase deploy` to deploy your app to Firebase. If you see a blank screen in your production URL, make sure you set the `build` as the folder in your Firebase settings."# supermetrics-saas" 
